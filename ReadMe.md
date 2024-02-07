@@ -21,7 +21,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abhinandps?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/psabhinand">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-400+-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-500+-blue?color=blue&logo=linkedin">
   </a>
   <!-- <a href="https://twitter.com/codemaker2014">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
